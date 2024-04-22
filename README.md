@@ -1,14 +1,18 @@
-My final exam project of Java Web Development course
-transferPlayersApp using Spring Boot, React, React Hooks and Bootstrap
+# My final exam project of Java Web Development course 
+# project sprints app, using Spring Boot, React, React Hooks and Bootstrap
 
-Requirement:
-
+# Requirement:
 npm install
 
-Log in:
+# Log in:
 
-ADMIN: Username: miroslav Password: miroslav
+ADMIN:
+Username: miroslav
+Password: miroslav
 
-USERS: Username: petar Password: petar
+USERS:
+Username: petar
+Password: petar
 
-Username: tamara Password: tamara
+Username: tamara
+Password: tamara
