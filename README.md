@@ -1,5 +1,5 @@
 # My final exam project of Java Web Development course 
-# project sprints app, using Spring Boot, React, React Hooks and Bootstrap
+# project trotineti app, using Spring Boot, React, React Hooks and Bootstrap
 
 # Requirement:
 npm install
